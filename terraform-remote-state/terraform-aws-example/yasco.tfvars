@@ -1,0 +1,1 @@
+s3-bucket-name = "yasco-s3-bucket-newest"
